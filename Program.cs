@@ -195,6 +195,11 @@ public class Program
 
         foreach (Customer customer in orderedMillionaires)
         {
+          customer.Name = String.Join(" ", customer.Name.Split(' ').Reverse());
+        }
+
+        foreach (Customer customer in orderedMillionaires)
+        {
             Console.WriteLine($"{customer.Name} at {customer.Bank}");
         }
 
