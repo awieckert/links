@@ -1,0 +1,11 @@
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\bin\Debug\netcoreapp2.1\links.deps.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\bin\Debug\netcoreapp2.1\links.runtimeconfig.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\bin\Debug\netcoreapp2.1\links.runtimeconfig.dev.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\bin\Debug\netcoreapp2.1\links.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\bin\Debug\netcoreapp2.1\links.pdb
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\obj\Debug\netcoreapp2.1\links.csprojAssemblyReference.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\obj\Debug\netcoreapp2.1\links.csproj.CoreCompileInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\obj\Debug\netcoreapp2.1\links.AssemblyInfoInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\obj\Debug\netcoreapp2.1\links.AssemblyInfo.cs
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\obj\Debug\netcoreapp2.1\links.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\links\obj\Debug\netcoreapp2.1\links.pdb
